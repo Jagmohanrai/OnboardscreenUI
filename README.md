@@ -1,4 +1,4 @@
-# onboardscreenui
+# OnboardScreenUI
 
 A ready to use Onboard screen UI made beautifully with flutter
 
